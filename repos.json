@@ -2,7 +2,7 @@
   "repos": [
     { "repo": "googleapis/google-api-dotnet-client", "language": "dotnet" },
     { "repo": "googleapis/google-api-go-client", "language": "go" },
-    { "repo": "GoogleCloudPlatform/google-cloud-go-testing", "language": "go" },
+    { "repo": "googleapis/google-cloud-go-testing", "language": "go" },
     { "repo": "googleapis/google-api-java-client", "language": "java" },
     { "repo": "googleapis/google-api-java-client-services", "language": "java" },
     { "repo": "googleapis/google-api-nodejs-client", "language": "nodejs" },
@@ -90,6 +90,7 @@
     { "repo": "googleapis/sloth", "language": "nodejs" },
     { "repo": "googleapis/elixir-google-api", "language": "elixir" },
     { "repo": "googleapis/nodejs-dialogflow", "language": "nodejs" },
-    { "repo": "googleapis/dialogflow-python-client-v2", "language": "python" }
+    { "repo": "googleapis/dialogflow-python-client-v2", "language": "python" },
+    { "repo": "googleapis/nodejs-datastore-session", "language": "nodejs" }
   ]
 }

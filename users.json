@@ -98,7 +98,6 @@
         "googleapis/nodejs-proto-files",
         "googleapis/nodejs-storage",
         "googleapis/nodejs-tasks",
-        "googleapis/nodejs-redis",
         "googleapis/nodejs-automl",
         "googleapis/nodejs-kms",
         "googleapis/nodejs-iot",
@@ -118,7 +117,8 @@
         "googleapis/nodejs-googleapis-common",
         "googleapis/nodejs-asset",
         "googleapis/sloth",
-        "googleapis/nodejs-dialogflow"
+        "googleapis/nodejs-dialogflow",
+        "googleapis/nodejs-datastore-session"
       ],
       "users": [
         "justinbeckwith",
@@ -192,6 +192,7 @@
       ],
       "repos": [
         "googleapis/google-api-java-client",
+        "googleapis/google-api-java-client-services",
         "googleapis/google-auth-library-java",
         "googleapis/google-http-java-client",
         "googleapis/google-oauth-java-client",
